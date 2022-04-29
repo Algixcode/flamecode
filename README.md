@@ -1,3 +1,3 @@
-git clone https://github.com/Algixcode/flamecode
-cd flamecode
-Python flamecode.py
+ $git clone https://github.com/Algixcode/flamecode
+ $cd flamecode
+ $python asiap.py
